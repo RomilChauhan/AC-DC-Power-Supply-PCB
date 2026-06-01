@@ -90,8 +90,7 @@ Transformer   Bridge     Capacitor  IC/Zener
 | File | Description |
 |------|-------------|
 | Fusion 360 PCB files | Board layout and design |
-| Schematic | Circuit design |
-| Photos | Physical build and test |
+| Schematic & Board | Circuit design |
 
 ---
 
